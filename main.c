@@ -49,7 +49,7 @@ int main()
 
 
 	int minAile = aileDeger[0];
-	int iDeger;
+	int iDeger=0;
 
 	for (int i = 1; i < 10; i++)
 	{
